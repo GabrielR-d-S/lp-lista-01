@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabris/github/Lista-01/fibonacci/src/function.cpp
+function.h
+/home/gabris/github/Lista-01/fibonacci/src/function.h
+
+/home/gabris/github/Lista-01/fibonacci/src/function.h
+vector
+-
+

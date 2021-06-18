@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabris/github/Lista-01/filter/src/function.h
+
+/home/gabris/github/Lista-01/filter/tests/include/tm/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/gabris/github/Lista-01/filter/tests/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+iterator
+-
+algorithm
+-
+include/tm/test_manager.h
+/home/gabris/github/Lista-01/filter/tests/include/tm/test_manager.h
+../src/function.h
+/home/gabris/github/Lista-01/filter/src/function.h
+

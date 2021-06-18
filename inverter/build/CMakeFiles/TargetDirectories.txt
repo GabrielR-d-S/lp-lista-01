@@ -1,0 +1,7 @@
+/home/gabris/github/Lista-01/inverter/build/CMakeFiles/rebuild_cache.dir
+/home/gabris/github/Lista-01/inverter/build/CMakeFiles/edit_cache.dir
+/home/gabris/github/Lista-01/inverter/build/CMakeFiles/run_tests.dir
+/home/gabris/github/Lista-01/inverter/build/CMakeFiles/func.dir
+/home/gabris/github/Lista-01/inverter/build/tests/CMakeFiles/edit_cache.dir
+/home/gabris/github/Lista-01/inverter/build/tests/CMakeFiles/all_tests.dir
+/home/gabris/github/Lista-01/inverter/build/tests/CMakeFiles/rebuild_cache.dir

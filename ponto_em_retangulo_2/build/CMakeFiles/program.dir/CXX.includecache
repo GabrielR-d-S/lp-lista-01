@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabris/github/Lista-01/ponto_em_retangulo_2/src/function.h
+array
+-
+string
+-
+
+/home/gabris/github/Lista-01/ponto_em_retangulo_2/src/main.cpp
+iostream
+-
+algorithm
+-
+function.h
+/home/gabris/github/Lista-01/ponto_em_retangulo_2/src/function.h
+

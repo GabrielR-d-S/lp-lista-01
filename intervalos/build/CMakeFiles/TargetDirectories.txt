@@ -1,0 +1,4 @@
+/home/gabris/github/Lista-01/intervalos/build/CMakeFiles/rebuild_cache.dir
+/home/gabris/github/Lista-01/intervalos/build/CMakeFiles/edit_cache.dir
+/home/gabris/github/Lista-01/intervalos/build/CMakeFiles/verify.dir
+/home/gabris/github/Lista-01/intervalos/build/CMakeFiles/program.dir

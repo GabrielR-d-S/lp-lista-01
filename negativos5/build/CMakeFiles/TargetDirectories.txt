@@ -1,0 +1,4 @@
+/home/gabris/github/Lista-01/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/gabris/github/Lista-01/negativos5/build/CMakeFiles/edit_cache.dir
+/home/gabris/github/Lista-01/negativos5/build/CMakeFiles/verify.dir
+/home/gabris/github/Lista-01/negativos5/build/CMakeFiles/program.dir

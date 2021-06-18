@@ -1,0 +1,4 @@
+/home/gabris/github/Lista-01/soma_vizinhos/build/CMakeFiles/rebuild_cache.dir
+/home/gabris/github/Lista-01/soma_vizinhos/build/CMakeFiles/edit_cache.dir
+/home/gabris/github/Lista-01/soma_vizinhos/build/CMakeFiles/verify.dir
+/home/gabris/github/Lista-01/soma_vizinhos/build/CMakeFiles/program.dir
